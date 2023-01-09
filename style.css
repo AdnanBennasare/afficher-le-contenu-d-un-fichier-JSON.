@@ -1,0 +1,47 @@
+/* @import "~boostrap/css/boostrap"; */
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #212529;
+    color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    
+}
+th, td {
+    color: #fff;
+}
+thead {
+    background-color: #6e2cf4;
+}
+.wrapper {
+    margin-top: 322px;
+}
+.background {
+    background-image: url(/pics/bac5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.tocenter {
+    width: 80%;
+    margin-left: 29%;
+    /* margin-right: auto; */
+    margin-top: 10%;
+
+}
+.tocenter h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 12%;
+    color: #ffffff;
+}
+@media only screen and (max-width: 600px) {
+    .wrapper {
+        margin-top: 20px;
+        background-color: #6e2cf4;
+
+    }
+  }
+
+
+

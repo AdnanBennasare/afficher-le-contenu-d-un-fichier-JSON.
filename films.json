@@ -1,0 +1,358 @@
+[
+  {
+    "titre": "Carter",
+    "réalisateur": "Todd Phillips",
+    "durée": "132",
+    "production": "2022",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDRjMjYyMGMtZmUyMi00ZTk4LTg0YzgtM2E1ZDk1ZGRhNDljXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "cinema": [" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Joo",
+        "prenom": "Won",
+        "nationality": "korean"
+      },
+      {
+        "name": "Camilla ",
+        "prenom": "Belle",
+        "nationality": "american"
+      },
+      {
+        "name": "Mike ",
+        "prenom": "Colter",
+        "nationality": "american"
+      },
+      {
+        "name": "Lee",
+        "prenom": "Sung-jae",
+        "nationality": "korean"
+      }
+    ]
+  } ,
+
+  {
+    "titre": "The Godfather",
+    "réalisateur": "Francis Ford Coppola",
+    "durée": "175",
+    "production": "1972",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "cinema": [" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Marlon  ",
+        "prenom": "Brando",
+        "nationality": "american"
+      },
+      {
+        "name": "James",
+        "prenom": "Caan",
+        "nationality": "american"
+      },
+      {
+        "name": "Robert",
+        "prenom": "Duvall",
+        "nationality": "american"
+      },
+      {
+        "name": "Sterling",
+        "prenom": "Hayden",
+        "nationality": "american"
+      }
+    ]
+  } ,
+  {
+    "titre": "Joker",
+    "réalisateur": "Todd Phillips",
+    "durée": "122",
+    "production": "2019",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "cinema": [" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Joaquin",
+        "prenom": "Phoenix",
+        "nationality": "american"
+      },
+      {
+        "name": "Robert",
+        "prenom": "De Niro",
+        "nationality": "american"
+      },
+      {
+        "name": "Zazie",
+        "prenom": "Beetz",
+        "nationality": "american"
+      },
+      {
+        "name": "Brett",
+        "prenom": "Cullen",
+        "nationality": "american"
+      }
+    ]
+  } ,
+  {
+    "titre": "avengers",
+    "réalisateur": "Anthony RussoJoe Russo",
+    "durée": "149",
+    "production": "2018",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "cinema":[" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Robert ",
+        "prenom": " Downey Jr",
+        "nationality": "american"
+      },
+      {
+        "name": "Chris",
+        "prenom": "Hemsworth ",
+        "nationality": "american"
+      },
+      {
+        "name": "Mark",
+        "prenom": "Ruffalo",
+        "nationality": "american"
+      },
+      {
+        "name": "Don",
+        "prenom": "Cheadle",
+        "nationality": "american"
+      }
+    ]
+  } ,
+  {
+    "titre": "the Pianist",
+    "réalisateur": "Roman Polanski",
+    "durée": "150",
+    "production": "2002",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "cinema":[" SER.U "," jERtuiy ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Adrien ",
+        "prenom": "Brody",
+        "nationality": "american"
+      },
+      {
+        "name": "Michal",
+        "prenom": "Zebrowski ",
+        "nationality": "american"
+      },
+      {
+        "name": "Mark",
+        "prenom": "Ruffalo",
+        "nationality": "american"
+      },
+      {
+        "name": "Ed",
+        "prenom": "Stoppard",
+        "nationality": "american"
+      }
+    ]
+  } ,
+  {
+    "titre": "The Dark Knight Rises",
+    "réalisateur": "Christopher Nolan",
+    "durée": "164",
+    "production": "2012",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+    "cinema":[" SER.U "," jERtuiy ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Christian   ",
+        "prenom": "Bale",
+        "nationality": "american"
+      },
+      {
+        "name": "Gary  ",
+        "prenom": "Oldman ",
+        "nationality": "american"
+      },
+      {
+        "name": "Tom  ",
+        "prenom": "Hardy",
+        "nationality": "american"
+      },
+      {
+        "name": "Joseph  ",
+        "prenom": "Gordon-Levitt",
+        "nationality": "american"
+      }
+    ]
+  },
+  {
+    "titre": "Forrest Gump",
+    "réalisateur": "Robert Zemeckis",
+    "durée": "142",
+    "production": "1994",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "cinema":[" SER.U "," jERtuiy ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Tom ",
+        "prenom": "Hanks",
+        "nationality": "american"
+      },
+      {
+        "name": "Rebecca    ",
+        "prenom": "Williams ",
+        "nationality": "american"
+      },
+      {
+        "name": "Sally    ",
+        "prenom": "Field",
+        "nationality": "american"
+      },
+      {
+        "name": "Bob  ",
+        "prenom": "Penny",
+        "nationality": "american"
+      }
+    ]
+  },
+  {
+    "titre": "Parasite",
+    "réalisateur": "Bong Joon Ho",
+    "durée": "132",
+    "production": "2017",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "cinema":[" SER.U "," jERtuiy ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Song",
+        "prenom": "Kang-ho ",
+        "nationality": "korean"
+      },
+      {
+        "name": "Lee ",
+        "prenom": "Sun-kyun ",
+        "nationality": "korean"
+      },
+      {
+        "name": "Cho ",
+        "prenom": "Yeo-jeong",
+        "nationality": "koren"
+      },
+      {
+        "name": "Park",
+        "prenom": "So-dam",
+        "nationality": "korean"
+      }
+    ]
+  },
+  {
+    "titre": "Her",
+    "réalisateur": "Spike Jonze",
+    "durée": "126",
+    "production": "2013",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "cinema": [
+      "Venice Film Festival",
+      "Toronto International Film Festival"
+    ],
+    "Acteurs": [
+      {
+        "name": "Joaquin",
+        "prenom": " Phoenix",
+        "nationality": " American"
+      },
+      {
+        "name": "Scarlett",
+        "prenom": " Johansson",
+        "nationality": " American"
+      },
+      {
+        "name": "Amy",
+        "prenom": " Adams",
+        "nationality": " American"
+      }
+    ]
+  },
+  {
+    "titre": "The Wolf of Wall Street",
+    "réalisateur": "Martin Scorsese",
+    "durée": "180",
+    "production": "2013",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "cinema": [
+      "Venice Film Festival",
+      "Toronto International Film Festival"
+    ],
+    "Acteurs": [
+      {
+        "name": "Leonardo",
+        "prenom": " DiCaprio",
+        "nationality": " American"
+      },
+      {
+        "name": "Jonah",
+        "prenom": " Hill",
+        "nationality": " American"
+      },
+      {
+        "name": "Margot",
+        "prenom": " Robbie",
+        "nationality": " Australian"
+      }
+
+    ]
+
+  },
+  {
+    "titre": "The Shawshank Redemption",
+    "réalisateur": "Frank Darabont",
+    "durée": "142",
+    "production": "1994",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "cinema": [
+      "Cannes Film Festival",
+      "Toronto International Film Festival"
+    ],
+    "Acteurs": [
+      {
+        "name": "Tim",
+        "prenom": " Robbins",
+        "nationality": " American"
+      },
+      {
+        "name": "Morgan",
+        "prenom": " Freeman",
+        "nationality": " American"
+      }
+    ]
+  },
+  {
+    "titre": "Inception",
+    "réalisateur": "Christopher Nolan",
+    "durée": "148",
+    "production": "2010",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+    "cinema": [
+      "Cannes Film Festival",
+      "Toronto International Film Festival"
+    ],
+    "Acteurs": [
+      {
+        "name": "Leonardo",
+        "prenom": " DiCaprio",
+        "nationality": " American"
+      },
+      {
+        "name": "Joseph",
+        "prenom": " Gordon-Levitt",
+        "nationality": " American"
+      },
+
+      {
+        "name": "Ellen",
+        "prenom": " Page",
+        "nationality": " Canadian"
+
+      }
+
+    ]
+
+  }
+
+
+]
